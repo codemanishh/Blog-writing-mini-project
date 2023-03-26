@@ -9,3 +9,8 @@ this is a simple php blog.
 2) import "php_blog.sql" file
 ```
 ### Thank you!
+
+
+TO SEE THE LIVE WEBSITE CLICK ON THE BELOW LINK
+# Replicate the Following Output
+[link - <- CLICK ON ME ](https://dsatmblogs.000webhostapp.com/)
